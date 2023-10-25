@@ -44,6 +44,3 @@ The project is divided into four main stages:
 - The prediction model is applied to five new applicants to automatically accept or reject their applications.
 - Proper graphical user interface is implemented for this component.
 
----
-
-Feel free to adapt this README template to your specific project, and make sure to customize it with specific details as your project progresses.
