@@ -5,8 +5,11 @@
 
 
 [Stage 1 - Gathering and Analyzing Data](#stage-1---gathering-and-analyzing-data)
+
 [Stage 2 - Cleaning of Data](#stage-2---cleaning-of-data)
+
 [Stage 3 - Developing Prediction Model (Model Training)](#stage-3---developing-prediction-model-model-training)
+
 [Stage 4 - Applying Prediction Model to New Applicants](#stage-4---applying-prediction-model-to-new-applicants)
 
 ## Introduction
